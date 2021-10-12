@@ -1,10 +1,7 @@
 # Hey there!
-I am Saurav. The three things I like in life is
-- Coding
-- Anime
-- Minecraft
+I am Saurav. Nothing much to say Ok bi
 
-For collaborations and paid work contact `sauravsreejith_pvt` on Instagram
+Contact: `@sauravsreejith_pvt`
 
 
 **Website:** https://portfolio-saurav2005.web.app/

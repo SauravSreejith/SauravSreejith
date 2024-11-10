@@ -1,3 +1,5 @@
+[![An image of @sauravsreejith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sauravsreejith)](https://holopin.io/@sauravsreejith)
+
 # 💫 About Me:
 🔭 I am currently exploring new technologies<br>🤝 I am looking forward to collaborating on web development<br>⚡ Cybersecurity Enthusiast
 
@@ -17,5 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SauravSreejith&icon=5&color=6)](https://visitcount.itsvg.in)
-
-[![An image of @sauravsreejith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sauravsreejith)](https://holopin.io/@sauravsreejith)
